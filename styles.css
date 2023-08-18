@@ -1,16 +1,3 @@
 
 /* Your CSS Code here. */
-header
- {
-  display: flex;
- }
-  header *
-  {
-    display: inline;
-  }
-  header li{
-    margin:20px;
-  }
-  header li a{
-    text-decoration: none;
-  }
+
